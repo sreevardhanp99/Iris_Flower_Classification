@@ -5,7 +5,9 @@
 This project uses Python programming in conjunction with machine learning.
 It focuses on classifying IRIS flowers using machine learning and Scikit-Learn techniques. 
 Several machine learning algorithms, including supervised and unsupervised learning methods, are employed here.
-The following algorithms are used to predict and obtain accuracy: 1. Decision tree classifier 
+The following algorithms are used to predict and obtain accuracy:
+
+1. Decision tree classifier 
 2. K closest classifier
 3. SVM
 4. The Logistic Regression Model 
